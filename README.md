@@ -18,4 +18,4 @@ On the upper left corner, the heart indicate the number of times you have left t
 ![Game rules.](./images/rules.gif)
 
 ## Known Issues
-There's currently no known issues about the game.
+There's currently no known issues about the game. Since the graphics library is not optimal and the effects vary from computer to computer, the game will be re-written and improved in p5.js
